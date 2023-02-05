@@ -8,10 +8,10 @@ let numbers = [4, 2, 9, 6, 23, 10, 98, 34, 67, 1];
 let smallest = numbers[0];
 
 // Loop through the array starting from the second number
-for ( /*YOUR CODE HERE*/ ) {
+for (let i = 1; i < numbers.length; i++) {
   // If the current number is smaller than the current smallest value, update smallest
-  if (/*YOUR CODE HERE*/) {
-    smallest = /*YOUR CODE HERE*/;
+  if (numbers[i) < smallest {
+    smallest = numbers[1];
   }
 }
 
